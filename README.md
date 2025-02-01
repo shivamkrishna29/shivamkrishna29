@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Krishna</h1>
 <h3 align="center">A passionate full stack Java developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkrishna29&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkrishna29" /> </p>
-I have over 2.5 years of experience as a full stack Java developer. I design and implement user-friendly front-end interfaces using HTML, CSS, and JavaScript. On the back-end, I develop scalable server-side logic using Java and Spring Boot. I handle database operations with proficiency in SQL databases. My role includes designing RESTful APIs for seamless front-end and back-end communication. I ensure high-quality code through rigorous testing and debugging. I have successfully led and collaborated on multiple projects, delivering them on time and within budget. I consistently solve complex technical issues to enhance application performance and user experience.
+I have over 3+ years of experience as a full stack Java developer. I design and implement user-friendly front-end interfaces using HTML, CSS, and JavaScript. On the back-end, I develop scalable server-side logic using Java and Spring Boot. I handle database operations with proficiency in SQL databases. My role includes designing RESTful APIs for seamless front-end and back-end communication. I ensure high-quality code through rigorous testing and debugging. I have successfully led and collaborated on multiple projects, delivering them on time and within budget. I consistently solve complex technical issues to enhance application performance and user experience.
 
 🔭 I’m currently working on Staff Travel Voyage
 🌱 I’m currently learning Apache Kafka
